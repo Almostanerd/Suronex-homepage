@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Suronex Homepage
 
-## Getting Started
+This is a homepage design for Suronex, built for the Crescentia One internship task. The work is limited to the landing page only.
 
-First, run the development server:
+I didn’t try to make the page flashy or overloaded. Since Suronex is about security and compliance, the design needed to feel calm, reliable, and confident first — not loud.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+How I thought about the design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The first thing I focused on was clarity. When someone lands on the page, they should immediately understand:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+what Suronex is
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+and that it’s a serious product meant for security teams
 
-## Learn More
+That’s why the hero section is clean, text-led, and structured. The idea was to let the product speak clearly before adding anything extra.
 
-To learn more about Next.js, take a look at the following resources:
+The rest of the page explains things step by step instead of throwing everything at once. Spacing and typography do most of the work, so the page feels easy to read rather than busy.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Animations & visuals
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Animations are subtle on purpose. They’re there to make the page feel responsive and alive — small movements, hover effects, smooth transitions — not to distract.
 
-## Deploy on Vercel
+Some 3D and animated visuals are used, but only where they add meaning or depth. I avoided putting heavy visuals everywhere so the page stays fast and doesn’t feel overwhelming, especially on mobile.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Mobile & performance
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Mobile wasn’t treated as an afterthought. Layouts, spacing, and text sizes were adjusted so the page still feels balanced on smaller screens.
+
+Performance was also kept in mind. Important content shows up first, and heavier visuals are limited so the page feels smooth and stable when it loads.
+
+Tech stack
+
+Next.js (App Router)
+
+React + TypeScript
+
+Tailwind CSS
+
+Framer Motion
+
+Spline (used selectively)
+
+Deployed on Vercel
+
+Scope
+
+Only the homepage was designed and developed. No inner pages were included.
