@@ -6,14 +6,10 @@ I didn’t try to make the page flashy or overloaded. Since Suronex is about sec
 
 How I thought about the design:
 
-The first thing I focused on was clarity. When someone lands on the page, they should immediately understand:
-
-what Suronex is
-
+The first thing I focused on was clarity. When someone lands on the page, they should immediately understand what Suronex is
 and that it’s a serious product meant for security teams
 
 That’s why the hero section is clean, text-led, and structured. The idea was to let the product speak clearly before adding anything extra.
-
 The rest of the page explains things step by step instead of throwing everything at once. Spacing and typography do most of the work, so the page feels easy to read rather than busy.
 
 Animations & visuals:
@@ -31,15 +27,10 @@ Performance was also kept in mind. Important content shows up first, and heavier
 Tech stack:
 
 Next.js (App Router)
-
 React + TypeScript
-
 Tailwind CSS
-
 Framer Motion
-
 Spline (used selectively)
-
 Deployed on Vercel
 
 Scope:
