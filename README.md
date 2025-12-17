@@ -2,7 +2,7 @@ Suronex Homepage:
 
 This is a homepage design for Suronex, built for the Crescentia One internship task. The work is limited to the landing page only.
 
-I didn’t try to make the page flashy or overloaded. Since Suronex is about security and compliance, the design needed to feel calm, reliable, and confident first — not loud.
+I didn’t try to make the page flashy or overloaded. Since Suronex is about security and compliance, the design needed to feel calm, reliable, and confident first- not loud.
 
 How I thought about the design:
 
@@ -14,7 +14,7 @@ The rest of the page explains things step by step instead of throwing everything
 
 Animations & visuals:
 
-Animations are subtle on purpose. They’re there to make the page feel responsive and alive — small movements, hover effects, smooth transitions — not to distract.
+Animations are subtle on purpose. They’re there to make the page feel responsive and alive (small movements, hover effects, smooth transitions) not to distract.
 
 Some 3D and animated visuals are used, but only where they add meaning or depth. I avoided putting heavy visuals everywhere so the page stays fast and doesn’t feel overwhelming, especially on mobile.
 
