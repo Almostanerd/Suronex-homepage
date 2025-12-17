@@ -22,7 +22,7 @@ export default function Home() {
       <FeatureSpotlight />
        <Benefits />
        <FinalCTA/>
-
+       <SectionDivider/>
        <Footer />
     </main>
   )
