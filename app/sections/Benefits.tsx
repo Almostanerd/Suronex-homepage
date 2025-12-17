@@ -44,7 +44,7 @@ export default function Benefits() {
               
             
             whileHover={{ y: -6 }}
-            transition={{ duration: 0.2 }}
+            
               className="p-8 rounded-2xl bg-white/5 border border-white/10"
             >
               <h3 className="text-xl text-white mb-3">
