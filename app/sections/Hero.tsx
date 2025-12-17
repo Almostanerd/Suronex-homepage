@@ -3,6 +3,7 @@
 import { motion } from 'framer-motion'
 import SecurityVisual from '../visuals/SecurityVisual'
 
+
 export default function Hero() {
   return (
     <section className="relative min-h-screen grid md:grid-cols-2 items-center px-8 md:px-20 gap-16 overflow-hidden">
